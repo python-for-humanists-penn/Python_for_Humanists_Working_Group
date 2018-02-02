@@ -1,1 +1,1 @@
-https://github.com/floriandominik/python/blob/master/docs/test.md
+# This is the central website of the 'Python for Humanists Working Group' at the University of Pennsylvania
