@@ -1,1 +1,3 @@
-# This is the central website of the 'Python for Humanists Working Group' at the University of Pennsylvania
+# 1. Calendar
+# 2. Useful resources
+
