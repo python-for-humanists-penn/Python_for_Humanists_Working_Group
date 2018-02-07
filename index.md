@@ -6,5 +6,4 @@ We meet on a weekly basis for open-ended exploration of the ways in which Python
 # [3. Blog](blog.md)
 
 If you would like to be added to our mailing list, or if you have general questions, please contact the coordinators: florianb at sas.upenn.edu & jehnna at sas.upenn.edu
-[Link to the test](test.md)
 
