@@ -1,1 +1,1 @@
-Blog coming soon!
+# Blog coming soon!
