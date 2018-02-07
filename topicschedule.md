@@ -1,3 +1,5 @@
+### Participants are encouraged to present their own code or give informal presentations on topics that interest them (no expertise needed--these are exploratory sessions). If you'd like to present, please contact the coordinators and we'll put you on the schedule.
+
 ## January 22nd
 Brainstorming the Working Group
 
