@@ -10,5 +10,5 @@ On this website, you can access lessons to gain general Python knowledge. In par
 ### [4. Code Academy Python Course](https://www.codecademy.com/en/tracks/python)
 If you'd to start from scratch on your own, this online course is a great way to begin.
 
-### [4. Learn Python the Hard Way](https://learnpythonthehardway.org/)
+### [5. Learn Python the Hard Way](https://learnpythonthehardway.org/)
 Another means to start to from scratch, this website is a beginner's guide in a book format.
