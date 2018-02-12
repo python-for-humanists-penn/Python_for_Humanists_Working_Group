@@ -13,7 +13,7 @@ Basic Python Vocabulary
 Working with Strings (see [How to Automate the Boring Stuff Ch. 6](https://automatetheboringstuff.com/chapter6/))
 
 ## February 19th
-TBD
+Continuing to Work with Strings
 
 ## February 26th
 TBD
