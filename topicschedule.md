@@ -10,7 +10,7 @@ Introductory Meeting
 Basic Python Vocabulary
 
 ## February 12th
-Working with strings
+Working with Strings (see [How to Automate the Boring Stuff Ch. 6](https://automatetheboringstuff.com/chapter6/))
 
 ## February 19th
 TBD
