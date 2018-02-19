@@ -10,13 +10,13 @@ Introductory Meeting
 Basic Python Vocabulary
 
 ## February 12th
-Working with Strings (see [How to Automate the Boring Stuff Ch. 6](https://automatetheboringstuff.com/chapter6/))
+Working with Strings (see [Automate the Boring Stuff With Python Ch. 6](https://automatetheboringstuff.com/chapter6/))
 
 ## February 19th
 Continuing to Work with Strings
 
 ## February 26th
-TBD
+Chapter 5 of [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/chapter5/)
 
 ## March 12th
 TBD
