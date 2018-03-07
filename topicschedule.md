@@ -18,8 +18,11 @@ Continuing to Work with Strings
 ## February 26th
 Chapter 5 of [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/chapter5/)
 
+## March 5th
+Continuing to Work with Chapter 5 of [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/chapter5/): Dictionaries
+
 ## March 12th
-TBD
+Project: Working with 'pytesseract'
 
 ## March 19th
 TBD
