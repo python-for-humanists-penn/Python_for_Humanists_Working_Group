@@ -25,7 +25,7 @@ Continuing to Work with Chapter 5 of [Automate the Boring Stuff With Python](htt
 Project: Working with 'pytesseract'
 
 ## March 19th
-TBD
+Project: Working with 'pytesseract' (2)
 
 ## March 26th
 TBD
