@@ -28,7 +28,7 @@ Project: Working with 'pytesseract'
 Project: Working with 'pytesseract' (2)
 
 ## March 26th
-TBD
+Project: Working with 'pytesseract' (3)
 
 ## April 2nd
 TBD
