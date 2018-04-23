@@ -34,10 +34,10 @@ Project: Working with 'pytesseract' (3)
 Project: Working with 'pytesseract' (4)
 
 ## April 9th
-TBD
+Project: Analyzing Stylistics in a Journal Corpus 
 
 ## April 16th
-TBD
+No Meeting
 
 ## April 23rd
-TBD
+Project: Analyzing Stylistics in a Journal Corpus (2)
