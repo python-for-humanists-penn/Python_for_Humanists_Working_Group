@@ -41,3 +41,7 @@ No Meeting
 
 ## April 23rd
 Project: Analyzing Stylistics in a Journal Corpus (2)
+
+## April 30th
+Project: Analyzing Stylistics in a Journal Corpus (3)
+
