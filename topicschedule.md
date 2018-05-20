@@ -47,3 +47,10 @@ Project: Analyzing Stylistics in a Journal Corpus (3)
 
 ## May 7th
 No Meeting
+
+## May 15th
+Our first semester: a summary
+
+## May 22nd
+Project: Analyzing Stylistics in a Journal Corpus (4)
+
