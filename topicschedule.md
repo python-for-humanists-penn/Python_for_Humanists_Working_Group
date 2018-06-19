@@ -56,3 +56,16 @@ Brainstorming session
 
 ## May 29th
 Project: Analyzing Stylistics in a Journal Corpus (4)
+
+## June 5th
+No meeting (HILT)
+
+## June 11th (Monday instead of Tuesday)
+Canceled (most of the participants were not able to attend today's session)
+
+## June 19th
+Project: Analyzing Stylistics in a Journal Corpus (5)
+
+### SUMMER BREAK - WE WILL RECONVENE IN AUGUST/SEPTEMBER (TBD/TBA)
+
+
