@@ -66,6 +66,9 @@ Canceled (most regular participants would not have been able to attend today's s
 ## June 19th
 Project: Analyzing Stylistics in a Journal Corpus (5)
 
-### SUMMER BREAK - WE WILL RECONVENE IN AUGUST/SEPTEMBER (TBD/TBA)
+### SUMMER BREAK
+
+## September 17th
+Introductory meeting/brainstorming session
 
 
