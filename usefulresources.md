@@ -1,4 +1,4 @@
-### [1. How to Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+### [1. Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 This book, available here as a website as well as a video tutorial, is the primary guiding resource for our working group.
 
 ### [2. Stack Overflow](https://stackoverflow.com/)
