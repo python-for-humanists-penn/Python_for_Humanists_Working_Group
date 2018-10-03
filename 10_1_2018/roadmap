@@ -1,4 +1,9 @@
 
+[1] Our roadmap for the coming weeks (as suggested by Scott): Let's work through the following chapters of "Automate the Boring Stuff with Python" 
+(https://automatetheboringstuff.com/):
+
+(take a look at the chapters at home if you have time)
+
 A. Chapter 1: Everything.
 
 B. Chapter 4: From the beginning to the end of "Removing Values from Lists with `del` Statements."
@@ -18,3 +23,27 @@ H. Chapter 4: Everything remaining, starting from "Working with Lists"
 I. Chapter 5: Everything remaining, starting from "birthdays.py"
 
 J. Chapter 6: Everything remaining, starting from "Useful String Methods"
+
+
+[2] Scott's notes from this week's session:
+
+Core Python types:
+- int (1, 2, 3...)
+- float (1.0, 2.2, 3.1415...)
+- str ('a', 'cat', 'was') [comma needs to be outside of the 'quotation marks' in Python!]
+- list ([1,2], ['x','y','z'])
+- dict ({'a':1, 'b':2})
+
+Functions - call or (?) define:
+
+def add (a,b):
+  return a+b
+result = add (1,2)
+
+
+For loops + if statements:
+
+For x in range (0,10):
+  ...
+if x = 3
+  ...
