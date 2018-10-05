@@ -71,4 +71,13 @@ Project: Analyzing Stylistics in a Journal Corpus (5)
 ## September 17th
 Introductory meeting/brainstorming session
 
+## September 24th
+No meeting
+
+## October 1st
+Python basics
+
+## October 8th
+Python basics
+
 
