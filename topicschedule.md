@@ -80,4 +80,8 @@ Python basics
 ## October 8th
 Python basics
 
+## October 15th
+Python basics
+
+
 
