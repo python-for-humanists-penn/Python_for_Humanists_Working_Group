@@ -83,5 +83,8 @@ Python basics
 ## October 15th
 Python basics
 
+## October 22nd
+Python basics: lists and dictionaries
+
 
 
