@@ -89,5 +89,11 @@ Python basics: lists and dictionaries
 ## October 29th
 Python basics: strings and beyond
 
+## November 5th
+Python basics: while- and for loops
+
+## November 12th
+Python basics: functions
+
 
 
