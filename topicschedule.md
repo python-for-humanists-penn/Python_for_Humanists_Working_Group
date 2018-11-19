@@ -95,5 +95,10 @@ Python basics: while- and for loops
 ## November 12th
 Python basics: functions
 
+## November 19th
+Python basics: "Fantasy Game Inventory" (chapter 5, Automate the Boring Stuff with Python)
+
+## November 26th
+Python basics: "List to Dictionary Function for Fantasy Game Inventory" (chapter 5, Automate the Boring Stuff with Python)
 
 
