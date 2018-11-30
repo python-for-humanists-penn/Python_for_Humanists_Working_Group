@@ -101,4 +101,8 @@ Python basics: "Fantasy Game Inventory" (chapter 5, Automate the Boring Stuff wi
 ## November 26th
 Python basics: "List to Dictionary Function for Fantasy Game Inventory" (chapter 5, Automate the Boring Stuff with Python)
 
+## December 3rd
+Presentation: Florian Breitkopf
+
+
 
