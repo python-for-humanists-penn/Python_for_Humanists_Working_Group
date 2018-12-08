@@ -104,5 +104,7 @@ Python basics: "List to Dictionary Function for Fantasy Game Inventory" (chapter
 ## December 3rd
 Presentation: Florian Breitkopf
 
+### WINTER BREAK
+
 
 
