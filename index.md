@@ -6,5 +6,5 @@ We meet on TBD in the Price Lab Conference Room (623 Williams Hall) for open-end
 # [2. Useful Resources](usefulresources.md)
 # [3. Blog](blog.md)
 
-If you would like to be added to our mailing list, or if you have general questions, please contact the coordinators: florianb at sas.upenn.edu & jehnna at sas.upenn.edu
+If you would like to be added to our mailing list, or if you have general questions, please contact the coordinator: florianb at sas.upenn.edu
 
