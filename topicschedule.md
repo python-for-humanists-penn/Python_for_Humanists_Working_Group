@@ -109,5 +109,8 @@ Presentation: Florian Breitkopf
 ## January 31st
 Spring 2019 Introductory Meeting (new time, new place: 2-3:30 pm, 616 Williams Hall!)
 
+## February 7th
+topic TBD
+
 
 
