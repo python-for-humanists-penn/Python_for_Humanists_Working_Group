@@ -110,7 +110,14 @@ Presentation: Florian Breitkopf
 Spring 2019 Introductory Meeting (new time, new place: 2-3:30 pm, 616 Williams Hall!)
 
 ## February 7th
-topic TBD
+The Royal Society Corpus (1)
+
+## February 14th
+The Royal Society Corpus (2)
+
+## February 21th
+The Royal Society Corpus (3)
+
 
 
 
