@@ -1,4 +1,4 @@
-### Participants are encouraged to present their own code or give informal presentations on topics that interest them (no expertise needed--these are exploratory sessions). If you'd like to present, please contact Florian (florianb@sas.upenn.edu) and he'll put you on the schedule.
+### Participants are encouraged to present their own code or give informal presentations on topics that interest them (no expertise needed--these are exploratory sessions). If you'd like to present, please contact Florian and he'll put you on the schedule.
 
 ## January 22nd
 Brainstorming the Working Group
