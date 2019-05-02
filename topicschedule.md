@@ -148,7 +148,7 @@ The Royal Society Corpus (11)
 ## May 2nd
 The Royal Society Corpus (12)
 
-## May 9th
+## May 9th (final meeting of the semester)
 The Royal Society Corpus (13)
 
 
