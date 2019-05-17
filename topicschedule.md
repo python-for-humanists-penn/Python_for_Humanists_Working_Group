@@ -154,4 +154,5 @@ The Royal Society Corpus (13)
 ## May 16 (final final meeting of the semester)
 Recap and discussion of Summer plans
 
-
+## May 23
+Topic modeling with the Royal Society Corpus and discussion of possible summer projects
