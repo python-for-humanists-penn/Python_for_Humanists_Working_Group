@@ -156,3 +156,6 @@ Recap and discussion of Summer plans
 
 ## May 23
 Topic modeling with the Royal Society Corpus and discussion of possible summer projects
+
+## May 30
+Bring in python code to troubleshoot with the group or projects to collaborate on
