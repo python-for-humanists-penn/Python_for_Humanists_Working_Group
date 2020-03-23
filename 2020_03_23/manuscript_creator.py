@@ -25,6 +25,7 @@ import subprocess
 from bs4 import BeautifulSoup as soup
 from ebooklib import epub
 
+
 repo_num = input(
         'Please enter the collection ID for the manuscript from Openn: ')
 ms_name = input('Please enter the manuscript call number from Openn: ')
@@ -76,13 +77,15 @@ for i in ms_authors:
     book.add_author(author)
     # book.add_author(vernac_auth, uid='vernacular')
 
+im = open(f'{ms_name}/0025_0000_web.jpg', 'rb').read()
+book.set_cover(file_name=f'{ms_name}/0025_0000_web.jpg', content=im, create_page=True)
 
-image1 = f'{ms_name}/0025_0000_web.jpg'
-ei = epub.EpubImage()
-ei.image1 = f'{ms_name}/0025_0000_web.jpg'
-ei.media_type = 'image/jpeg'
-ei.content = 'binary_file_content'
-book.add_item(ei)
+# image1 = f'{ms_name}/0025_0000_web.jpg'
+# ei = epub.EpubImage()
+# ei.image1 = f'{ms_name}/0025_0000_web.jpg'
+# ei.media_type = 'image/jpeg'
+# ei.content = 'binary_file_content'
+# book.add_item(ei)
 
 # find more robust ereader to see if multiple authors can be set
 
