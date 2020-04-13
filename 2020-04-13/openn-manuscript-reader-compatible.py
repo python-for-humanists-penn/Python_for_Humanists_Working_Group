@@ -27,6 +27,7 @@ from bs4 import BeautifulSoup as soup
 from ebooklib import epub
 import os
 import requests
+import re
 
 
 repo_num = input(
@@ -119,7 +120,7 @@ book.set_cover(f'{img_names[0]}', open(f'{img_names[0]}', 'rb').read())
 
 # locals().update(var_holder)
 
-# image_holder = {}
+
 
 image_html = []
 for i in img_names[1:]:
@@ -128,20 +129,46 @@ for i in img_names[1:]:
 
 image_content = '<html><head></head><body>' + ''.join(image_html) + '</body></html>'
 
-n = 1
-images = epub.EpubHtml(title=f'images', file_name=f'images.xhtml')
+
+images = epub.EpubHtml(title='images', file_name='images.xhtml')
 images.content = image_content
 
+book.add_item(images)
+
+image_holder = {}
+
+n = 1
 for image in img_names[1:]:
-    file_name = f'image{n}'
-    ei = epub.EpubImage()
-    ei.file_name = f'{image}'
-    ei.media_type = 'image/jpeg'
-    ei.content = open(f'{image}', 'rb').read()
-    book.add_item(ei)
+    image_holder[f'book_image_{n}'] = epub.EpubImage()
+            #media_type='image/jpeg',
+            #content=open(image, 'rb').read())
+    # file_name = f'image{n}'
+    # ei = epub.EpubImage()
+    # ei.file_name = f'{image}'
+    # ei.media_type = 'image/jpeg'
+    # ei.content = open(f'{image}', 'rb').read()
+    # book.add_item(ei)
     n = n + 1
 
-# locals().update(image_holder)
+image_id = re.search(r'\d+', image_src).group()
+
+book.spine = ['nav', images]
+
+locals().update(image_holder)
+
+for i in locals().keys():
+    if i.startswith('book_image'):
+        image_num = re.search(r'\d+', i).group().zfill(4)
+        locals()[i].file_name = f'{image_id}_{image_num}_web.jpg'
+        print('I added the file name.')
+        locals()[i].media_type = 'image/jpeg'
+        print('I added the media type')
+        locals()[i].content = open(f'{image_id}_{image_num}_web.jpg', 'rb').read()
+        print('I added the content')
+        book.add_item(locals()[i])
+        # book.spine.append(locals()[i])
+        # print('I added it to the spine')
+        n = n + 1
 # for item in image_holder.keys():
 #    book.add_item(item)
 #    spine_info.append(item)
@@ -176,7 +203,7 @@ book.add_item(epub.EpubNav())  # required element
 
 # basic spine
 print('I got to line 162!')
-book.spine = ['nav', images]  # required element
+# book.spine = ['nav', images]
 
 print("I'm making your book now! So friendly!")
 
