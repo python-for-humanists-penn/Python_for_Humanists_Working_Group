@@ -87,9 +87,10 @@ print('Preparing book metadata...')
 
 book.set_identifier(identifier)
 
-ms_item = soup.find('msItem')  # assuming title is first <title> tag in first
+ms_item = soup.find_all('msItem')
+#ms_item = soup.find('msItem')  # assuming title is first <title> tag in first
                                # <msItem> tag
-ms_title = ms_item.title.string
+ms_title = ms_item[0].title.string
 
 book.set_title(ms_title)
 
@@ -97,7 +98,7 @@ ms_lang = soup.textLang['mainLang']
 
 book.set_language(ms_lang)
 
-ms_authors = ms_item.find_all('author')
+ms_authors = ms_item[0].find_all('author')
 
 authors = []
 for i in ms_authors:

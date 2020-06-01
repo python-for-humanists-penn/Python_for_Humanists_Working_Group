@@ -33,8 +33,34 @@ ms_name = input('Please enter the manuscript call number from Openn: ')
 command = ['wget', '-nd', '-np', '-r', '-A', '_web.jpg', '-A.xml', '-P',
            ms_name,
            f'http://openn.library.upenn.edu/Data/{repo_num}/{ms_name}/']
+           
 
-subprocess.run(command)
+## Windows-friendly downlaod
+import requests
+
+with open(f'{ms_name}_TEI.xml', 'wb') as f:
+    f.write(requests.get(f'http://openn.library.upenn.edu/Data/{repo_num}/{ms_name}/data/{ms_name}_TEI.xml').content)
+
+with open(f'{ms_name}_TEI.xml') as f:
+    soup = soup(f, 'xml')  # specify 'xml' so it parses data correctly
+
+img_details = soup.find_all('graphic')
+img_names = []
+for img in img_details:
+    if '_web.jpg' in img.get('url'):
+        img_names.append(img.get('url')[4:])
+
+for img in img_names:
+    with open(f'{img}', 'wb') as f:
+        f.write(requests.get(f'http://openn.library.upenn.edu/Data/{repo_num}/{ms_name}/data/web/{img}').content)
+# Results:
+#    _TEI.xml and _web.jpg files saved to the working directory
+#    soup = parsed _TEI.xml
+#    img_details = list of all graphic attributes
+#    img_names = list of _web.jpg file names
+##
+
+#subprocess.run(command)
 
 with open(f'{ms_name}/{ms_name}_TEI.xml') as f:
     soup = soup(f, 'xml')  # specify 'xml' so it parses data correctly
@@ -79,15 +105,20 @@ for i in ms_authors:
 
 book.set_cover(f'{ms_name}/0025_0000_web.jpg', open(f'{ms_name}/0025_0000_web.jpg', 'rb').read())
 
-file_name = 'image1'
-ei = epub.EpubImage()
-c1 = epub.EpubHtml(title='Image 1', file_name='image-1.xhtml')
-ei.file_name = f'{ms_name}/0025_0001_web.jpg'
-ei.media_type = 'image/jpeg'
-ei.content = open(f'{ms_name}/0025_0001_web.jpg', 'rb').read()
-c1.content = f'<html><head></head><body><img src="{ms_name}/0025_0001_web.jpg"></body></html>'
-book.add_item(ei)
-book.add_item(c1)
+#spine_info = ['nav']
+#n=1
+#for image in image_list[1:]:
+##    file_name = f'image{n}'
+#    ei = epub.EpubImage()
+#    f'c{n} = epub.EpubHtml(title=f'image{n}, file_name='image{n}.xhtml')
+#    ei.file_name = f'{ms_name}/'image
+#    ei.media_type = 'image/jpeg'
+#    ei.content = open(ei.file_name, 'rb').read()
+#    f'c{n}.content = f'<html><head></head><body><img src=e1.file_name></body></html>'
+#    book.add_item(ei)
+#    book.add_item(c1)
+#    spine_info.append(f'c{n})
+#    n+=1
 
 
 # find more robust ereader to see if multiple authors can be set

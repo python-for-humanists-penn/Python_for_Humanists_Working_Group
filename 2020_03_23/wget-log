@@ -1,0 +1,581 @@
+
+
+2020-03-23 12:23:41 (22.7 KB/s) - `ljs465/0025_0010_web.jpg.1' saved [330865/330865]
+
+Removing ljs465/0025_0010_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:23:41--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0011_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 346801 (339K) [image/jpeg]
+Saving to: `ljs465/0025_0011_web.jpg.1'
+
+
+
+2020-03-23 12:23:55 (23.9 KB/s) - `ljs465/0025_0011_web.jpg.1' saved [346801/346801]
+
+Removing ljs465/0025_0011_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:23:55--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0012_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 336498 (329K) [image/jpeg]
+Saving to: `ljs465/0025_0012_web.jpg.1'
+
+97% [==============================================>  ] 328,288     11.8K/s  eta 1s      100%[================================================>] 336,498     11.9K/s  eta 0s      100%[================================================>] 336,498     11.9K/s   in 24s     
+
+2020-03-23 12:24:19 (13.5 KB/s) - `ljs465/0025_0012_web.jpg.1' saved [336498/336498]
+
+Removing ljs465/0025_0012_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:24:19--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0013_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 342014 (334K) [image/jpeg]
+Saving to: `ljs465/0025_0013_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 14% 32.8K 9s
+    50K .......... .......... .......... .......... .......... 29% 33.8K 7s
+   100K .......... .......... .......... .......... .......... 44% 11.9K 9s
+   150K .......... .......... .......... .......... .......... 59% 22.7K 6s
+   200K .......... .......... .......... .......... .......... 74% 54.8K 3s
+   250K .......... .......... .......... .......... .......... 89% 46.8K 1s
+   300K .......... .......... .......... ...                  100%  103K=12s
+
+2020-03-23 12:24:31 (28.5 KB/s) - `ljs465/0025_0013_web.jpg.1' saved [342014/342014]
+
+Removing ljs465/0025_0013_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:24:31--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0014_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 335063 (327K) [image/jpeg]
+Saving to: `ljs465/0025_0014_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 15% 23.8K 12s
+    50K .......... .......... .......... .......... .......... 30% 20.6K 10s
+   100K .......... .......... .......... .......... .......... 45% 30.4K 7s
+   150K .......... .......... .......... .......... .......... 61% 23.1K 5s
+   200K .......... .......... .......... .......... .......... 76% 22.5K 3s
+   250K .......... .......... .......... .......... .......... 91% 22.4K 1s
+   300K .......... .......... .......                         100% 36.6K=14s
+
+2020-03-23 12:24:45 (24.2 KB/s) - `ljs465/0025_0014_web.jpg.1' saved [335063/335063]
+
+Removing ljs465/0025_0014_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:24:45--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0015_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 344784 (337K) [image/jpeg]
+Saving to: `ljs465/0025_0015_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 14% 33.0K 9s
+    50K .......... .......... .......... .......... .......... 29% 26.3K 8s
+   100K .......... .......... .......... .......... .......... 44% 30.4K 6s
+   150K .......... .......... .......... .......... .......... 59% 23.6K 5s
+   200K .......... .......... .......... .......... .......... 74% 5.99K 5s
+   250K .......... .......... .......... .......... .......... 89% 39.6K 2s
+   300K .......... .......... .......... ......               100% 33.5K=18s
+
+2020-03-23 12:25:03 (18.8 KB/s) - `ljs465/0025_0015_web.jpg.1' saved [344784/344784]
+
+Removing ljs465/0025_0015_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:03--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0016_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 329430 (322K) [image/jpeg]
+Saving to: `ljs465/0025_0016_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 15% 17.4K 16s
+    50K .......... .......... .......... .......... .......... 31% 25.5K 11s
+   100K .......... .......... .......... .......... .......... 46% 20.1K 8s
+   150K .......... .......... .......... .......... .......... 62% 12.3K 7s
+   200K .......... .......... .......... .......... .......... 77% 27.6K 4s
+   250K .......... .......... .......... .......... .......... 93% 24.4K 1s
+   300K .......... .......... .                               100% 8.01K=18s
+
+2020-03-23 12:25:21 (17.9 KB/s) - `ljs465/0025_0016_web.jpg.1' saved [329430/329430]
+
+Removing ljs465/0025_0016_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:21--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0017_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 363671 (355K) [image/jpeg]
+Saving to: `ljs465/0025_0017_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 14% 25.8K 12s
+    50K .......... .......... .......... .......... .......... 28% 6.05K 26s
+   100K .......... .......... .......... .......... .......... 42% 19.0K 18s
+   150K .......... .......... .......... .......... .......... 56% 17.1K 12s
+   200K .......... .......... .......... .......... .......... 70% 28.9K 7s
+   250K .......... .......... .......... .......... .......... 84% 28.0K 4s
+   300K .......... .......... .......... .......... .......... 98% 13.0K 0s
+   350K .....                                                 100% 6.82K=24s
+
+2020-03-23 12:25:45 (14.9 KB/s) - `ljs465/0025_0017_web.jpg.1' saved [363671/363671]
+
+Removing ljs465/0025_0017_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:45--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0018_web.jpg
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292886 (286K) [image/jpeg]
+Saving to: `ljs465/0025_0018_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 17%  491K 0s
+    50K .......... .......... .......... .......... .......... 34%  628K 0s
+   100K .......... .......... .......... .......... .......... 52%  714K 0s
+   150K .......... .......... .......... .......... .......... 69%  735K 0s
+   200K .......... .......... .......... .......... .......... 87%  831K 0s
+   250K .......... .......... .......... ......               100% 1.15M=0.4s
+
+2020-03-23 12:25:45 (697 KB/s) - `ljs465/0025_0018_web.jpg.1' saved [292886/292886]
+
+Removing ljs465/0025_0018_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:45--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0019_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 305838 (299K) [image/jpeg]
+Saving to: `ljs465/0025_0019_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 16%  678K 0s
+    50K .......... .......... .......... .......... .......... 33% 1.12M 0s
+   100K .......... .......... .......... .......... .......... 50% 1.57M 0s
+   150K .......... .......... .......... .......... .......... 66%  891K 0s
+   200K .......... .......... .......... .......... .......... 83% 3.03M 0s
+   250K .......... .......... .......... .......... ........  100% 1.06M=0.3s
+
+2020-03-23 12:25:45 (1.10 MB/s) - `ljs465/0025_0019_web.jpg.1' saved [305838/305838]
+
+Removing ljs465/0025_0019_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:45--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0020_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 359312 (351K) [image/jpeg]
+Saving to: `ljs465/0025_0020_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 14% 1.62M 0s
+    50K .......... .......... .......... .......... .......... 28% 1.41M 0s
+   100K .......... .......... .......... .......... .......... 42% 1.65M 0s
+   150K .......... .......... .......... .......... .......... 56% 1.10M 0s
+   200K .......... .......... .......... .......... .......... 71% 1.52M 0s
+   250K .......... .......... .......... .......... .......... 85% 1.64M 0s
+   300K .......... .......... .......... .......... .......... 99% 1.88M 0s
+   350K                                                       100% 17.8K=0.2s
+
+2020-03-23 12:25:46 (1.51 MB/s) - `ljs465/0025_0020_web.jpg.1' saved [359312/359312]
+
+Removing ljs465/0025_0020_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:46--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0021_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 281939 (275K) [image/jpeg]
+Saving to: `ljs465/0025_0021_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 18% 2.31M 0s
+    50K .......... .......... .......... .......... .......... 36% 2.21M 0s
+   100K .......... .......... .......... .......... .......... 54% 2.54M 0s
+   150K .......... .......... .......... .......... .......... 72% 2.22M 0s
+   200K .......... .......... .......... .......... .......... 90% 2.42M 0s
+   250K .......... .......... .....                           100%  996K=0.1s
+
+2020-03-23 12:25:46 (2.07 MB/s) - `ljs465/0025_0021_web.jpg.1' saved [281939/281939]
+
+Removing ljs465/0025_0021_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:46--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/0025_0022_web.jpg
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 36826 (36K) [image/jpeg]
+Saving to: `ljs465/0025_0022_web.jpg.1'
+
+     0K .......... .......... .......... .....                100% 13.0M=0.003s
+
+2020-03-23 12:25:46 (13.0 MB/s) - `ljs465/0025_0022_web.jpg.1' saved [36826/36826]
+
+Removing ljs465/0025_0022_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:46--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/?C=N;O=A
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=A'
+
+     0K ...                                                    22.4M=0s
+
+2020-03-23 12:25:46 (22.4 MB/s) - `ljs465/index.html?C=N;O=A' saved [3217]
+
+Removing ljs465/index.html?C=N;O=A since it should be rejected.
+
+--2020-03-23 12:25:46--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/?C=M;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=D'
+
+     0K ...                                                    2.43M=0.001s
+
+2020-03-23 12:25:46 (2.43 MB/s) - `ljs465/index.html?C=M;O=D' saved [3217]
+
+Removing ljs465/index.html?C=M;O=D since it should be rejected.
+
+--2020-03-23 12:25:46--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/?C=S;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=D'
+
+     0K ...                                                     341M=0s
+
+2020-03-23 12:25:46 (341 MB/s) - `ljs465/index.html?C=S;O=D' saved [3217]
+
+Removing ljs465/index.html?C=S;O=D since it should be rejected.
+
+--2020-03-23 12:25:46--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/master/?C=N;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=D'
+
+     0K ...                                                     269M=0s
+
+2020-03-23 12:25:47 (269 MB/s) - `ljs465/index.html?C=N;O=D' saved [3104]
+
+Removing ljs465/index.html?C=N;O=D since it should be rejected.
+
+--2020-03-23 12:25:47--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/master/?C=M;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=A'
+
+     0K ...                                                     329M=0s
+
+2020-03-23 12:25:47 (329 MB/s) - `ljs465/index.html?C=M;O=A' saved [3104]
+
+Removing ljs465/index.html?C=M;O=A since it should be rejected.
+
+--2020-03-23 12:25:47--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/master/?C=S;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=A'
+
+     0K ...                                                    3.38M=0.001s
+
+2020-03-23 12:25:47 (3.38 MB/s) - `ljs465/index.html?C=S;O=A' saved [3104]
+
+Removing ljs465/index.html?C=S;O=A since it should be rejected.
+
+--2020-03-23 12:25:47--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/thumb/?C=N;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=D'
+
+     0K ...                                                     271M=0s
+
+2020-03-23 12:25:47 (271 MB/s) - `ljs465/index.html?C=N;O=D' saved [3128]
+
+Removing ljs465/index.html?C=N;O=D since it should be rejected.
+
+--2020-03-23 12:25:47--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/thumb/?C=M;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=A'
+
+     0K ...                                                    42.0M=0s
+
+2020-03-23 12:25:47 (42.0 MB/s) - `ljs465/index.html?C=M;O=A' saved [3128]
+
+Removing ljs465/index.html?C=M;O=A since it should be rejected.
+
+--2020-03-23 12:25:47--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/thumb/?C=S;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=A'
+
+     0K ...                                                    12.1K=0.3s
+
+2020-03-23 12:25:48 (12.1 KB/s) - `ljs465/index.html?C=S;O=A' saved [3128]
+
+Removing ljs465/index.html?C=S;O=A since it should be rejected.
+
+--2020-03-23 12:25:48--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/web/?C=N;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=D'
+
+     0K ...                                                     331M=0s
+
+2020-03-23 12:25:48 (331 MB/s) - `ljs465/index.html?C=N;O=D' saved [3120]
+
+Removing ljs465/index.html?C=N;O=D since it should be rejected.
+
+--2020-03-23 12:25:48--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/web/?C=M;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=A'
+
+     0K ...                                                     229M=0s
+
+2020-03-23 12:25:48 (229 MB/s) - `ljs465/index.html?C=M;O=A' saved [3120]
+
+Removing ljs465/index.html?C=M;O=A since it should be rejected.
+
+--2020-03-23 12:25:48--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/web/?C=S;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=A'
+
+     0K ...                                                    4.37K=0.7s
+
+2020-03-23 12:25:49 (4.37 KB/s) - `ljs465/index.html?C=S;O=A' saved [3120]
+
+Removing ljs465/index.html?C=S;O=A since it should be rejected.
+
+--2020-03-23 12:25:49--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/web/REF0001_ljs465_web.jpg
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246459 (241K) [image/jpeg]
+Saving to: `ljs465/REF0001_ljs465_web.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 20%  523K 0s
+    50K .......... .......... .......... .......... .......... 41%  588K 0s
+   100K .......... .......... .......... .......... .......... 62%  717K 0s
+   150K .......... .......... .......... .......... .......... 83%  788K 0s
+   200K .......... .......... .......... ..........           100%  823K=0.4s
+
+2020-03-23 12:25:49 (662 KB/s) - `ljs465/REF0001_ljs465_web.jpg.1' saved [246459/246459]
+
+Removing ljs465/REF0001_ljs465_web.jpg.1 since it should be rejected.
+
+--2020-03-23 12:25:49--  http://openn.library.upenn.edu/Data/0001/ljs465/data/master/?C=N;O=A
+Reusing existing connection to openn.library.upenn.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=A'
+
+     0K .......... .                                           7.28M=0.002s
+
+2020-03-23 12:25:49 (7.28 MB/s) - `ljs465/index.html?C=N;O=A' saved [11658]
+
+Removing ljs465/index.html?C=N;O=A since it should be rejected.
+
+--2020-03-23 12:25:49--  http://openn.library.upenn.edu/Data/0001/ljs465/data/master/?C=M;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=D'
+
+     0K .......... .                                           39.7M=0s
+
+2020-03-23 12:25:49 (39.7 MB/s) - `ljs465/index.html?C=M;O=D' saved [11658]
+
+Removing ljs465/index.html?C=M;O=D since it should be rejected.
+
+--2020-03-23 12:25:49--  http://openn.library.upenn.edu/Data/0001/ljs465/data/master/?C=S;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=D'
+
+     0K .......... .                                           6.52M=0.002s
+
+2020-03-23 12:25:49 (6.52 MB/s) - `ljs465/index.html?C=S;O=D' saved [11658]
+
+Removing ljs465/index.html?C=S;O=D since it should be rejected.
+
+--2020-03-23 12:25:49--  http://openn.library.upenn.edu/Data/0001/ljs465/data/thumb/?C=N;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=A'
+
+     0K .......... .                                           1.05M=0.01s
+
+2020-03-23 12:25:49 (1.05 MB/s) - `ljs465/index.html?C=N;O=A' saved [12210]
+
+Removing ljs465/index.html?C=N;O=A since it should be rejected.
+
+--2020-03-23 12:25:49--  http://openn.library.upenn.edu/Data/0001/ljs465/data/thumb/?C=M;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=D'
+
+     0K .......... .                                           4.23M=0.003s
+
+2020-03-23 12:25:49 (4.23 MB/s) - `ljs465/index.html?C=M;O=D' saved [12210]
+
+Removing ljs465/index.html?C=M;O=D since it should be rejected.
+
+--2020-03-23 12:25:49--  http://openn.library.upenn.edu/Data/0001/ljs465/data/thumb/?C=S;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=D'
+
+     0K .......... .                                           41.1K=0.3s
+
+2020-03-23 12:25:50 (41.1 KB/s) - `ljs465/index.html?C=S;O=D' saved [12210]
+
+Removing ljs465/index.html?C=S;O=D since it should be rejected.
+
+--2020-03-23 12:25:50--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/?C=N;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=A'
+
+     0K .......... .                                            635K=0.02s
+
+2020-03-23 12:25:51 (635 KB/s) - `ljs465/index.html?C=N;O=A' saved [12026]
+
+Removing ljs465/index.html?C=N;O=A since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/?C=M;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=D'
+
+     0K .......... .                                           6.16M=0.002s
+
+2020-03-23 12:25:51 (6.16 MB/s) - `ljs465/index.html?C=M;O=D' saved [12026]
+
+Removing ljs465/index.html?C=M;O=D since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/web/?C=S;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=D'
+
+     0K .......... .                                           4.90M=0.002s
+
+2020-03-23 12:25:51 (4.90 MB/s) - `ljs465/index.html?C=S;O=D' saved [12026]
+
+Removing ljs465/index.html?C=S;O=D since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/master/?C=N;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=A'
+
+     0K ...                                                     228M=0s
+
+2020-03-23 12:25:51 (228 MB/s) - `ljs465/index.html?C=N;O=A' saved [3104]
+
+Removing ljs465/index.html?C=N;O=A since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/master/?C=M;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=D'
+
+     0K ...                                                    95.5M=0s
+
+2020-03-23 12:25:51 (95.5 MB/s) - `ljs465/index.html?C=M;O=D' saved [3104]
+
+Removing ljs465/index.html?C=M;O=D since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/master/?C=S;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=D'
+
+     0K ...                                                     247M=0s
+
+2020-03-23 12:25:51 (247 MB/s) - `ljs465/index.html?C=S;O=D' saved [3104]
+
+Removing ljs465/index.html?C=S;O=D since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/thumb/?C=N;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=A'
+
+     0K ...                                                     298M=0s
+
+2020-03-23 12:25:51 (298 MB/s) - `ljs465/index.html?C=N;O=A' saved [3128]
+
+Removing ljs465/index.html?C=N;O=A since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/thumb/?C=M;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=D'
+
+     0K ...                                                     298M=0s
+
+2020-03-23 12:25:51 (298 MB/s) - `ljs465/index.html?C=M;O=D' saved [3128]
+
+Removing ljs465/index.html?C=M;O=D since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/thumb/?C=S;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=D'
+
+     0K ...                                                    1.14M=0.003s
+
+2020-03-23 12:25:51 (1.14 MB/s) - `ljs465/index.html?C=S;O=D' saved [3128]
+
+Removing ljs465/index.html?C=S;O=D since it should be rejected.
+
+--2020-03-23 12:25:51--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/web/?C=N;O=A
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=N;O=A'
+
+     0K ...                                                     331M=0s
+
+2020-03-23 12:25:52 (331 MB/s) - `ljs465/index.html?C=N;O=A' saved [3120]
+
+Removing ljs465/index.html?C=N;O=A since it should be rejected.
+
+--2020-03-23 12:25:52--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/web/?C=M;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=M;O=D'
+
+     0K ...                                                     331M=0s
+
+2020-03-23 12:25:52 (331 MB/s) - `ljs465/index.html?C=M;O=D' saved [3120]
+
+Removing ljs465/index.html?C=M;O=D since it should be rejected.
+
+--2020-03-23 12:25:52--  http://openn.library.upenn.edu/Data/0001/ljs465/data/extra/web/?C=S;O=D
+Connecting to openn.library.upenn.edu|165.123.34.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `ljs465/index.html?C=S;O=D'
+
+     0K ...                                                    11.9K=0.3s
+
+2020-03-23 12:25:52 (11.9 KB/s) - `ljs465/index.html?C=S;O=D' saved [3120]
+
+Removing ljs465/index.html?C=S;O=D since it should be rejected.
+
+FINISHED --2020-03-23 12:25:52--
+Downloaded: 89 files, 7.5M in 4m 38s (27.7 KB/s)

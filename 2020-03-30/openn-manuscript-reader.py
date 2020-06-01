@@ -86,15 +86,10 @@ ei.media_type = 'image/jpeg'
 ei.content = open(f'{ms_name}/0025_0001_web.jpg', 'rb').read()
 book.add_item(ei)
 
-
-# find more robust ereader to see if multiple authors can be set
-
 # create chapter
-# c1 = epub.EpubHtml(title='Intro', file_name='chap_01.xhtml', lang='hr')
-# c1.content=u'<h1>Intro heading</h1><p>Zaba je skocila u baru.</p>'
-
-# add chapter
-# book.add_item(c1)
+c1 = epub.EpubHtml(title='Intro', file_name='chap_01.xhtml')
+c1.content="<html><head></head><body><img src="ljs465/0025_0001_web.jpg" alt="1r"></body></html>""
+book.add_item(c1)
 
 # book.toc = (epub.Link('chap_01.xhtml', 'Introduction', 'intro'),
 #             (epub.Section('Simple book'),
@@ -113,7 +108,7 @@ book.add_item(epub.EpubNav())  # required element
 # book.add_item(nav_css)
 
 # basic spine
-book.spine = ['nav', ei]  # required element
+book.spine = ['nav', c1]  # required element
 
 print("I'm making your book now! So friendly!")
 

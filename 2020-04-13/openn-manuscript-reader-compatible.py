@@ -28,7 +28,17 @@ from ebooklib import epub
 import os
 import requests
 import re
+import six
+from ebooklib.plugins import standard
+from pprint import pprint
+import shutil
 
+pwd = os.getcwd()
+try: 
+    os.mkdir('ebook-temp')
+except FileExistsError:
+    pass 
+os.chdir('ebook-temp')
 
 repo_num = input(
         'Please enter the collection ID for the manuscript from Openn: ')
@@ -90,11 +100,13 @@ ms_authors = ms_item.find_all('author')
 
 for i in ms_authors:
     author = i.persName.string
-    # vernac = i.find('persName', attrs={'type': 'vernacular'})
-    # vernac_auth = vernac.string
+    vernac = i.find('persName', attrs={'type': 'vernacular'})
+    vernac_auth = vernac.string
+    author_final = author + "; " + vernac_auth
     print(author)
+    book.add_author(author_final)
     book.add_author(author)
-    # book.add_author(vernac_auth, uid='vernacular')
+    book.add_author(vernac_auth, uid='vernacular')
 
 # get list of images
 
@@ -130,9 +142,11 @@ for i in img_names[1:]:
 image_content = '<html><head></head><body>' + ''.join(image_html) + '</body></html>'
 
 
-images = epub.EpubHtml(title='images', file_name='images.xhtml')
-images.content = image_content
+images = epub.EpubHtml(uid="test", title='images', file_name='images.xhtml')
+#print(images)
 
+#images = epub.EpubItem(file_name="images.xhtml", media_type="xhtml", content=image_content)
+images.content = image_content
 book.add_item(images)
 
 image_holder = {}
@@ -156,7 +170,7 @@ book.spine = ['nav', images]
 
 locals().update(image_holder)
 
-for i in locals().keys():
+for i in list(locals()):
     if i.startswith('book_image'):
         image_num = re.search(r'\d+', i).group().zfill(4)
         locals()[i].file_name = f'{image_id}_{image_num}_web.jpg'
@@ -206,7 +220,9 @@ print('I got to line 162!')
 # book.spine = ['nav', images]
 
 print("I'm making your book now! So friendly!")
+os.chdir(pwd)
 
-epub.write_epub(f'{ms_name}.epub', book, {})
-
-# for next time: additional metadata? start working on getting images
+pprint(book.metadata)
+epub.write_epub(f'{ms_name}.epub', book, {'plugins': [standard.SyntaxPlugin()]})
+shutil.rmtree('ebook-temp')
+# for next time: additional metadata?
