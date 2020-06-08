@@ -75,6 +75,7 @@ book = epub.EpubBook()
 
 # get bibid, if it exists
 bibid = soup.find('altIdentifier', attrs={'type': 'bibid'})
+print(bibid)
 if bibid is None:
     call_number = soup.find('idno', attrs={'type': 'call-number'})
     identifier = 'openn' + call_number.string
@@ -158,16 +159,31 @@ title_page.content = title_content
 book.add_item(title_page)
 
 deco_notes = soup.find_all('decoNote')
+print(deco_notes)
+# turn xml into a dictionary, with n as key and content as value
+# the first decoNote is a summmary (doesn't have a n)
+# the rest of the decoNotes need to match 
 vis_page = soup.find_all('surface')
 
 image_html = []
-n = 0
+x = 0
 for i in img_names:
     image_src = f'<figure><img src="{i}">'
-    caption = vis_page[n].get('n')
-    image_info = image_src + '<figcaption>' + caption + '</figcaption></figure>'
+    caption = vis_page[x].get('n')
+    if deco_notes:
+    # find the deco_note where deco_note[n] is the same as vis_page[n] 
+        deco_note = deco_notes.find_all(attrs={"n": caption})
+        if deco_note is not None: 
+            print(deco_note)
+            deco_note_string = deco_note.string
+            print(deco_note_string)  
+            image_info = image_src + '<figcaption>' + caption + ': ' + deco_note_string + '</figcaption></figure>'
+        else: 
+            image_info = image_src + '<figcaption>' + caption + '</figcaption></figure>'
+    else: 
+        image_info = image_src + '<figcaption>' + caption + '</figcaption></figure>'
     image_html.append(image_info)
-    n = n + 1
+    x = x + 1
 
 image_content = '<html><head></head><body>' + ''.join(image_html) + '</body></html>'
 
@@ -232,8 +248,8 @@ book.add_item(epub.EpubNcx())  # required element
 book.add_item(epub.EpubNav())  # required element
 
 # define CSS style
-# style = 'body {background-color: Tomato;}'
-# nav_css = epub.EpubItem(uid="style_nav", file_name="style/nav.css", media_type="text/css", content=style)
+style = 'body {background-color: Tomato;}'
+nav_css = epub.EpubItem(uid="style_nav", file_name="style/nav.css", media_type="text/css", content=style)
 
 # add CSS file
 book.add_item(nav_css)
